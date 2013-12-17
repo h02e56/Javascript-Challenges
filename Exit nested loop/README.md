@@ -8,7 +8,8 @@ This code should exit the first time indexInnerLoop has a value of 10 and indexO
          {
             if (indexInnerLoop === 10)
             {
-                 break;
+                console.log( 'indexInnerLoop is equals to 10' );
+                break;
             }
          }
     }
