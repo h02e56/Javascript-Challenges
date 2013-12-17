@@ -1,3 +1,16 @@
-Why console.log( 'mañana' == 'mañana' ) logs false ?
+Copy and run, individually, the next lines of code in your console:
 
-Why ('mañana').length returns 6 and ('mañana').length return 7?
+**console.log( 'mañana' == 'mañana' );**
+
+**console.log( 'mañana' == 'mañana' );**
+
+**console.log( ('mañana').length );**
+
+**console.log( ('mañana').length );**
+
+What logs each of them?
+
+Why the result is different?
+
+
+
