@@ -1,8 +1,8 @@
 Copy and run, individually, the next lines of code in your console:
 
-**console.log( 'mañana' == 'mañana' );**
+**console.log( 'mañana' === 'mañana' );**
 
-**console.log( 'mañana' == 'mañana' );**
+**console.log( 'mañana' === 'mañana' );**
 
 **console.log( ('mañana').length );**
 
