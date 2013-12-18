@@ -16,8 +16,8 @@ Joel Dart about his project:
 So what's the challenge? Of course creating your own poem (or something close to it) :) ! If you don't feel confident of publishing it by your name, just send me an Email and I will publish it anonymously.
 I guess
 
-	( function ( HiThereFellowSoftonicPoets ) {
-		Debugging( 'is an " + endlesslyRepeating() + " annoyance, isn't it?' );
+    ( function ( HiThereFellowSoftonicPoets ) {
+		Debugging( 'is an ' + endlesslyRepeating() + ' annoyance, isn\'t it?' );
 
 		function endlesslyRepeating() {
 			for (var totalBugsInProjects = Number.POSITIVE_INFINITY; totalBugsInProjects <= 0; totalBugsInProjects--) {
@@ -26,6 +26,6 @@ I guess
 			return 'never ending';
 		}
 		function Debugging() {}
-	}( "HappyCoders" ) );
+	}( 'HappyCoders' ) );
 
 P.S.: I know it's sh** ;)! Do better, please!
